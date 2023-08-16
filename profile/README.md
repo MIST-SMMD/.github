@@ -14,7 +14,9 @@ MIST-SMMD an innovative spatiotemporal information extraction method, which extr
 
 ### Step One:
   Crawling and Preprocessing of social media data.
-### `Step Two:`
+### Step Two:
   Coarse-grained extraction of spatiotemporal information.
-### `Step Three:`
+### Step Three:
   Fine-grained extraction of spatial information.
+
+![Main Processes](img/mainprocess.png)
