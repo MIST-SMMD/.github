@@ -28,12 +28,12 @@ To learn more about the details of the model, read the [paper](https://www.mdpi.
 In the organization repository, we provide detailed code on the coarse-grained extraction and fine-grained extraction methods respectively, please visit the repository address for more details
 
 ### Codes
-- #### [Coarse-grained](https://github.com/MIST-SMMD/Coarse-grained)
-- #### [Fine-grained](https://github.com/MIST-SMMD/Fine-grained)
+- [Coarse-grained](https://github.com/MIST-SMMD/Coarse-grained)
+- [Fine-grained](https://github.com/MIST-SMMD/Fine-grained)
 
 ### Online Demo
 Want to run MIST-SMMD with custom image pairs without configuring your own GPU environment? Try the Colab demo:
-- #### Coarse-grained
+- Coarse-grained
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YUyLpwX7LgOK9FaraktSvX4nd2851qe2?usp=sharing)
-- #### Fine-grained
+- Fine-grained
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BO1gBlShIJn0E0LILbBlghXcaQ85N5XQ?usp=sharing)
