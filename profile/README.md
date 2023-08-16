@@ -19,4 +19,4 @@ MIST-SMMD an innovative spatiotemporal information extraction method, which extr
 ### Step Three:
   Fine-grained extraction of spatial information.
 
-![Main Processes](MIST-SMMD/.github/profile/img/mainprocess.png)
+![Main Processes](/img/mainprocess.png)
