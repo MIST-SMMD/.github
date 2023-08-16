@@ -37,3 +37,6 @@ Want to run MIST-SMMD with custom image pairs without configuring your own GPU e
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YUyLpwX7LgOK9FaraktSvX4nd2851qe2?usp=sharing)
 - Fine-grained  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BO1gBlShIJn0E0LILbBlghXcaQ85N5XQ?usp=sharing)
+
+### Notes
+This model is based on the [LoFTR](https://github.com/zju3dv/LoFTR) and [DETR](https://github.com/facebookresearch/detr) models for secondary development, if you want to know more about feature matching or Segment, please visit the source code.
