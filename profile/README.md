@@ -24,8 +24,16 @@ MIST-SMMD an innovative spatiotemporal information extraction method, which extr
 To learn more about the details of the model, read the [paper](https://www.mdpi.com/journal/ijgi)
 
 ## Run MIST-SMMD
+
 In the organization repository, we provide detailed code on the coarse-grained extraction and fine-grained extraction methods respectively, please visit the repository address for more details
 
-- ### [Coarse-grained](https://github.com/MIST-SMMD/Coarse-grained)
-- ### [Fine-grained](https://github.com/MIST-SMMD/Fine-grained)
+### Codes
+- #### [Coarse-grained](https://github.com/MIST-SMMD/Coarse-grained)
+- #### [Fine-grained](https://github.com/MIST-SMMD/Fine-grained)
 
+### Online Demo
+Want to run MIST-SMMD with custom image pairs without configuring your own GPU environment? Try the Colab demo:
+- #### Coarse-grained
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YUyLpwX7LgOK9FaraktSvX4nd2851qe2?usp=sharing)
+- #### Fine-grained
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BO1gBlShIJn0E0LILbBlghXcaQ85N5XQ?usp=sharing)
