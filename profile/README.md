@@ -26,6 +26,6 @@ To learn more about the details of the model, read the [paper](https://www.mdpi.
 ## Run MIST-SMMD
 In the organization repository, we provide detailed code on the coarse-grained extraction and fine-grained extraction methods respectively, please visit the repository address for more details
 
-### [Coarse-grained](https://github.com/MIST-SMMD/Coarse-grained)
-### [Fine-grained](https://github.com/MIST-SMMD/Fine-grained)
+- ### [Coarse-grained](https://github.com/MIST-SMMD/Coarse-grained)
+- ### [Fine-grained](https://github.com/MIST-SMMD/Fine-grained)
 
