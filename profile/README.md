@@ -21,3 +21,6 @@ MIST-SMMD an innovative spatiotemporal information extraction method, which extr
 - ### Step Three:
   Fine-grained extraction of spatial information.
 
+## Run MIST-SMMD
+In the organization repository, we provide detailed code on the coarse-grained extraction and fine-grained extraction methods respectively, please visit the repository address for more details
+
