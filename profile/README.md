@@ -33,8 +33,8 @@ In the organization repository, we provide detailed code on the coarse-grained e
 
 ### Online Demo
 Want to run MIST-SMMD with custom image pairs without configuring your own GPU environment? Try the Colab demo:
-- Coarse-grained  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YUyLpwX7LgOK9FaraktSvX4nd2851qe2?usp=sharing)
+- Coarse-grained 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KQjqZSgTuCoWj6k4e2gpgLt1XBp37EXj?usp=sharing)
 - Fine-grained  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BO1gBlShIJn0E0LILbBlghXcaQ85N5XQ?usp=sharing)
 
