@@ -40,3 +40,20 @@ Want to run MIST-SMMD with custom image pairs without configuring your own GPU e
 
 ### Notes
 This model is based on the [LoFTR](https://github.com/zju3dv/LoFTR) and [DETR](https://github.com/facebookresearch/detr) models for secondary development, if you want to know more about feature matching or Segment, please visit the source code.
+
+## Privacy Data Collection Statement
+Welcome to use our open-source software. This software is designed for crawling publicly available social media text and images to support users in relevant research and analysis. Before using this software, please carefully read and understand the following privacy data collection statement.
+### Data Source
+This software retrieves text and image information from publicly accessible APIs or web resources on social media platforms. We strictly adhere to laws and regulations and do not breach any privacy settings or use inappropriate methods to obtain data.
+### Disclaimer
+The data obtained using this software is public information. However, when using this data, you should comply with relevant laws, regulations, and the usage policies of social media platforms. This software is solely a data retrieval tool and is not liable for any legal disputes, privacy breaches, or similar issues arising from your use of the data.
+### Data Purpose
+You should use the data obtained through this software for lawful and compliant purposes, such as academic research, data analysis, and public sentiment monitoring. Data must not be used for illegal or privacy-infringing activities, including but not limited to harassment, abuse, or fraud.
+### Data Storage
+You should securely manage the data obtained from this software to prevent data leaks, misuse, and other such incidents. If you use the data for research or sharing, ensure sensitive personal information is appropriately anonymized to protect privacy rights.
+### Non-Disclosure of Data
+You are prohibited from publicly posting, displaying, or sharing the data obtained through this software, especially if it contains others' private information. You may share analysis results, summaries, or conclusions, but not the original data
+### Compliance Review
+When using this software to obtain data, you should review and adhere to applicable laws, regulations, and social media platform policies. Any violations will be your sole responsibility.  
+Please use this software with caution, respect laws and regulations, and honor others' privacy. If you have any questions or suggestions, please contact us.
+
