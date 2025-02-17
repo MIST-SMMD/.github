@@ -12,7 +12,7 @@ Discussions about the paper are welcomed in the [discussion panel](https://githu
 
 MIST-SMMD an innovative spatiotemporal information extraction method, which extracts the spatiotemporal information of events from multimodal data on Weibo at coarse- and fine-grained hierarchical levels and serves as a beneficial supplement to existing urban event monitoring methods.The MIST-SMMD process is comprised of three steps:
 
-![Main Processes]([profile/img/mainprocess.png](https://raw.githubusercontent.com/MIST-SMMD/.github/refs/heads/main/profile/img/mainprocess.png))
+![Main Processes]([https://raw.githubusercontent.com/MIST-SMMD/.github/refs/heads/main/profile/img/mainprocess.png))
 
 - ### Step One:
   Crawling and Preprocessing of social media data.
